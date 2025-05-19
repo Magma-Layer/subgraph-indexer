@@ -11,7 +11,7 @@ hex = "0.4.3"
 graph = { path = "../../graph" }
 bs58 = "0.4.0"
 graph-runtime-derive = { path = "../derive" }
-semver = "1.0.20"
+semver = "1.0.26"
 uuid = { version = "1.6.1", features = ["v4"] }
 anyhow = "1.0"
 defer = "0.1"
